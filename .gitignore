@@ -1,0 +1,10 @@
+.idea/*
+target/*
+.mvn/*
+.release/
+release/
+build/
+.DS_Store
+*.iml
+*.classhpath
+*.project
