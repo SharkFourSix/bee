@@ -1,7 +1,7 @@
 # bee - Boolean Expression Evaluator
 
 ### Goals:
-- pass and evaluate a context. Context should contain appropriate
+- pass and evaluate a context.
 - generate SQL WHERE filters in safe and secure manner.
 
 ### TODO
